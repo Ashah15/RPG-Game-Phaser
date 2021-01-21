@@ -8,20 +8,20 @@ describe('ChestModel', () => {
     expect(/^143-/.test(chestModel.id)).toBe(true);
   });
 
-  it('expect to give correct x cordinate', () => {
-    expect(chestModel.x).toBe(300);
-  });
-
   it('expect not to give wrong x cordinate', () => {
     expect(chestModel.x).not.toBe(100);
   });
 
-  it('expect to give right y cordinate', () => {
-    expect(chestModel.y).toBe(400);
+  it('expect to give correct x cordinate', () => {
+    expect(chestModel.x).toBe(300);
   });
 
   it('expect not to give wrong y cordinate', () => {
     expect(chestModel.y).not.toBe(500);
+  });
+
+  it('expect to give right y cordinate', () => {
+    expect(chestModel.y).toBe(400);
   });
 
   it('expect spawnerId to be 143', () => {

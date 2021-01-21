@@ -1,7 +1,7 @@
 import API from '../src/Objects/api';
 
 test('score to be saved must not be 0', () => {
-  API.saveResults('Arnold', 0)
+  API.saveResults('Marta', 0)
     .then((response) => {
       expect(response).toBe(null);
     })
