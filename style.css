@@ -1,0 +1,33 @@
+#phaser-game {
+  position: relative;
+}
+
+#user-input {
+  position: absolute;
+  top: 280px;
+  left: 300px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+#player-name {
+  margin-right: 5px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 40px;
+  height: 40px;
+}
+
+.btn {
+  height: 40px;
+  color: white;
+  background-color: #1ea7e1;
+  width: 100px;
+  font-weight: bold;
+}
+
+.scores {
+  position: absolute;
+  top: 400px;
+  left: 300px;
+}
