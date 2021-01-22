@@ -17,7 +17,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Link](https://ashah15.github.io/RPG-Game-Phaser/)
 
 
 ## Getting Started
