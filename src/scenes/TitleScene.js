@@ -13,7 +13,7 @@ export default class TitleScene extends Phaser.Scene {
     this.scene.remove('Game');
     this.scene.add('Game', new GameScene());
 
-    this.titleText = this.add.text(200, 100, 'Titan Game', { fontSize: '54px', fill: '#fff' });
+    this.titleText = this.add.text(200, 100, 'Titans Attack Game', { fontSize: '54px', fill: '#fff' });
 
     this.gameButton = new UiButton(this, config.width / 2, config.height / 2 - 100, 'button1', 'button2', 'Play', this.startScene.bind(this, 'Game'));
 
