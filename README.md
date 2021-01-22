@@ -1,18 +1,19 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# RPG-Game-Phaser
 
-# Project Name
+>A RPG game built with the phaser3 library.
 
-> One paragraph statement about the project.
+![titans](https://user-images.githubusercontent.com/25789605/105510383-a0ca3180-5cdf-11eb-902e-de57ef5223e9.png)
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML & CSS,
+- Javascript,
+- ES6,
+- Jest,
+- Babel,
+- Webpack,
+- Phaser3
 
 ## Live Demo
 
@@ -21,39 +22,40 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+How to install and run it locally
 
+- Run git clone https://github.com/Ashah15/RPG-Game-Phaser.git to get it in your local machine.
 
-To get a local copy up and running follow these simple example steps.
+- Navigate to the folder by running
 
-### Prerequisites
+  cd RPG-Game-Phaser
+  
+- Install all of the dependencies by running
+  
+  npm install
+  
+- Bundle the files and start the development server
 
-### Setup
+  npm run start
+  
+- The game is now running on the browser
 
-### Install
+  http://localhost:8080/
+  
+- For testing run 
+ 
+  npm test
 
-### Usage
-
-### Run tests
-
-### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Asha Abdullahi**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+-  [@githubhandle](https://github.com/Ashah15)
+-  [@twitterhandle](https://twitter.com/AshaAbdullahi13)
+-  [linkedin](https://www.linkedin.com/in/ashaabdullahi/)
 
 ## 🤝 Contributing
 
