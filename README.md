@@ -4,6 +4,14 @@
 
 ![titans](https://user-images.githubusercontent.com/25789605/105510383-a0ca3180-5cdf-11eb-902e-de57ef5223e9.png)
 
+## How to play titans
+- After the loading scene, a scene appears with the buttons. You can click on options to disable sound and music. To get started click on play.
+- The player gets more health and gold by fighting the monsters with his sword. The sword can be gotten by pressing the space bar key on your keyboard.
+- Use the left arrow key on the keyboard to move the player movement to the left of the game scene.
+- Use the right arrow key on the keyboard to move the player movement to the right of the game scene.
+- Use the down arrow key on the keyboard to move the player movement to down of the game scene.
+- Use the spacebar key on the keyboard to fight the monsters with your weapon which is a sword.
+
 
 ## Built With
 
@@ -53,9 +61,9 @@ How to install and run it locally
 
 👤 **Asha Abdullahi**
 
--  [@githubhandle](https://github.com/Ashah15)
--  [@twitterhandle](https://twitter.com/AshaAbdullahi13)
--  [linkedin](https://www.linkedin.com/in/ashaabdullahi/)
+-  [Github](https://github.com/Ashah15)
+-  [Twitter](https://twitter.com/AshaAbdullahi13)
+-  [Linkedin](https://www.linkedin.com/in/ashaabdullahi/)
 
 ## 🤝 Contributing
 
@@ -69,9 +77,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Phaser3
+- Zenva Academy rpg game tutorial
+- Openweathermap for image assets
 
 ## 📝 License
 
