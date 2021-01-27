@@ -69,7 +69,7 @@ How to install and run it locally
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Ashah15/RPG-Game-Phaser/issues).
 
 ## Show your support
 
@@ -77,9 +77,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Phaser3
-- Zenva Academy rpg game tutorial
-- Openweathermap for image assets
+- [Phaser 3](https://phaser.io/).
+- [Zenva Academy](https://academy.zenva.com/?zva_src=https://gamedevacademy.org) rpg game tutoral.
+- [Openweathermap](https://adventurerr.netlify.app/) for image assets
 
 ## 📝 License
 
