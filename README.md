@@ -11,6 +11,9 @@
 - Use the right arrow key on the keyboard to move the player movement to the right of the game scene.
 - Use the down arrow key on the keyboard to move the player movement to down of the game scene.
 - Use the spacebar key on the keyboard to fight the monsters with your weapon which is a sword.
+- The warrior must be quick to fight the monsters so that he doesn't lose his healthbar.
+- The game is over if the player's health is at zero.
+- If the game over it takes you to screen where you can add your scores to the leaderboard click on the button submit to add your name to the     leaderboard.
 
 
 ## Built With
